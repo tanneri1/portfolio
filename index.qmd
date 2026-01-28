@@ -25,8 +25,8 @@ title: "My AI Product Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [Alligator Builder](https://alligator-builder.vercel.app/)
+A simple game to build homes for alligators. 
 
 :::
 
