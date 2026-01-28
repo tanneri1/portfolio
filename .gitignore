@@ -69,3 +69,12 @@ $RECYCLE.BIN/
 # Temporary files
 *.tmp
 *.temp
+**/*.quarto_ipynb
+
+# Large installer files
+*.pkg
+
+# Local agent configs
+.agents/
+.claude/
+.opencode/

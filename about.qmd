@@ -4,16 +4,18 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Tanner Iverson" class="hero-image">
 
-<h1>Your Name</h1>
+<div class="hero-content">
+<h1>Tanner Iverson</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/tanner-iverson/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/tanneri1" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+</div>
 
 :::
 
@@ -23,40 +25,16 @@ Write a compelling narrative about your background, education, and what drives y
 
 ### Education
 
-- **Degree Name**, University Name (Year)
+- **Finance Major**, Brigham Young University (April 2026)
 - **Relevant Coursework**: List key courses related to product management, analytics, or business
 - **Academic Achievements**: Honor societies, relevant projects, or awards
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
-
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
-
-#### Another Position - Company Name
-*Dates*
-
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
-
-### Skills & Interests
-
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
-
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
-
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+<a href="files/resume.pdf" target="_blank" class="resume-preview">
+  <iframe src="files/resume.pdf#toolbar=0&navpanes=0&scrollbar=0" class="resume-embed"></iframe>
+  <div class="resume-overlay">Click for Full View</div>
+</a>
 
 ### What's Next
 

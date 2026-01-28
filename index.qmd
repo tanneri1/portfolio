@@ -1,19 +1,23 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "My AI Product Portfolio"
 ---
+
+<h1 class="page-title">My AI Product Portfolio</h1>
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Tanner Iverson" class="hero-image">
 
-<h1>Your Name</h1>
+<div class="hero-content">
+<h1>Tanner Iverson</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/tanner-iverson/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/tanneri1" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+</div>
 
 :::
 
