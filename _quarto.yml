@@ -16,6 +16,8 @@ website:
         menu:
           - href: projects/project-1.qmd
             text: Alligator Builder Game
+          - href: projects/problems-exploring.qmd
+            text: Problems I'm Exploring
           #- href: projects/project-2.qmd
           #  text: Business Case Presentation
           #- href: projects/project-3.qmd

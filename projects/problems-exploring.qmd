@@ -1,0 +1,13 @@
+---
+title: "Problems I'm Exploring"
+---
+
+::: {.problems-box}
+
+- Problem one goes here
+- Problem two goes here
+- Problem three goes here
+- Problem four goes here
+- Problem five goes here
+
+:::
