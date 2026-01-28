@@ -21,7 +21,7 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Hi, I'm Tanner. I have participated in national scrabble competitions, I've performed in a boy band for over 100 people, I always have multiple jars of peanut butter in my pantry, I once ate a $70 steak in New York City where I met Joseph Smith, I have an adopted Mexican mother, and now, I am an AI product manager. Please enjoy my portfolio of developed works.
 
 ### Education
 
