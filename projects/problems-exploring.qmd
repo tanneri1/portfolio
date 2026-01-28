@@ -2,12 +2,14 @@
 title: "Problems I'm Exploring"
 ---
 
+## Problems I'm Exploring
+
 ::: {.problems-box}
 
-- Problem one goes here
-- Problem two goes here
-- Problem three goes here
-- Problem four goes here
-- Problem five goes here
+- **Problem One: Generating market reports for commercial real estate investments.** As an intern, I recognized that this is a common yet laborious task that is required for every deal. In fact, my team in the summer of 2025 attempted to use an in-house AI chatbot to generate these reports but with no success. This would save analysts a great deal of time and is a typically repetitive task.
+- **Problem Two: Formatting financial statements into financial investment models in Excel.** Also in the world of commercial real estate, I found an immensely repetitive task to be formatting various financial statements such as rent rolls and expense reports, which are used to have reliable historical data for investment analytics. Automating this problem would save a great deal of time daily.
+- **Problem Three: Personal budget tracking.** Many people use home-made budget systems to track their finances, but there are typically very rudimentary models to just barely get the job done. With AI coding, more proficient and personalized budget models could be built for everyone to use. I personally plan to budget better in the coming year when I move with my wife to New York City.
+- **Problem Four: Tracking school assignments.** For the past three years at BYU, I have manually inputted my assignments and their due dates for every class into Google Tasks to stay on top of due dates and track my workload. However, with AI, the hours I spend doing this every semester can be turned to 5 minutes by offloading it to an AI agent. Many students face this same dilemma with their own home-made solutions, so having a one size fits all solution with AI could help a lot of people.
+- **Problem Five: Effortless nutrition and fitness tracking.** I am currently training for an Ironman triathlon, which requires a lot of time and energy towards nutrition and following a strict training plan. With AI, I envision a solution that not only allows me to track my progress like on an excel spreadsheet but also interact with me like a coach depending on how well I trained, felt, or ate that day. Fitness is a core part of the majority of people's days, and many want to get more serious about their fitness but find it too difficult to make the jump. Having a resource like this would lower that hurdle and help people get even more dedicated to their health and fitness goals.
 
 :::
