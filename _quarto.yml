@@ -28,6 +28,8 @@ website:
           #  text: Project 5
           #- href: projects/project-6.qmd
           #  text: Project 6
+      - href: scratch/index.html
+        text: Scrabble Scratch Page
 
 format:
   html:
